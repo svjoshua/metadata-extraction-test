@@ -1,0 +1,31 @@
+{
+  "name": "metadata-extraction-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svjoshua/metadata-extraction-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/svjoshua/metadata-extraction-test/issues"
+  },
+  "homepage": "https://github.com/svjoshua/metadata-extraction-test#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dist-exiftool": "^10.53.0",
+    "express": "^4.17.1",
+    "ffprobe": "^1.1.0",
+    "ffprobe-static": "^3.0.0",
+    "multer": "^1.4.1",
+    "node-exiftool": "^2.3.0",
+    "office-document-properties": "^1.0.8",
+    "pdf-parse": "^1.1.1",
+    "uniqid": "^5.0.3"
+  }
+}
